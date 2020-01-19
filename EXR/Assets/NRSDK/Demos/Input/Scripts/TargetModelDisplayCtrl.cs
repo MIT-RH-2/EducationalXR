@@ -38,9 +38,11 @@ namespace NRKernal.NRExamples
 
 
             brain1 = GameObject.Find("Brain");
+           // brain2 = GameObject.Find("Brain");
             solar = GameObject.Find("Rotate");
             var rotate = solar.GetComponent<Button>();
             var button = brain1.GetComponent<Button>();
+           // var button2 = brain2.GetComponent<Button>();
           //  var button2 = 
             button.onClick.AddListener(()=> {
                 if (brn == false)

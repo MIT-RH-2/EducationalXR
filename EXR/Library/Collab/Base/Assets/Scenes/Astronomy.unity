@@ -1743,7 +1743,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1668515225578100, guid: 665d8158924bd2648a94fb3f87691bbb, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1668515225578100, guid: 665d8158924bd2648a94fb3f87691bbb, type: 3}
       propertyPath: m_TagString
@@ -2939,7 +2939,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1581093954426074, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4808320353365586, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3879,6 +3879,11 @@ PrefabInstance:
       propertyPath: buttonText
       value: 
       objectReference: {fileID: 1420779140}
+    - target: {fileID: 4226401055977474700, guid: b9f8675730c38499aa675074efacfd37,
+        type: 3}
+      propertyPath: solar
+      value: 
+      objectReference: {fileID: 1690473533}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b9f8675730c38499aa675074efacfd37, type: 3}
 --- !u!4 &4226401055163736708 stripped
