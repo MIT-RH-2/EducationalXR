@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ea88da-76b6-4274-a6dd-d9d6c62d71f6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Record/Scripts/VideoCaptureLocalExample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="88" column="60" selection-start-line="88" selection-start-column="60" selection-end-line="88" selection-end-column="60" />
+              <folding>
+                <marker date="1579303688901" expanded="false" signature="6:77" ph="..." />
+                <marker date="1579303688901" expanded="true" signature="108:4192" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="168:4190" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="250:788" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="276:778" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="570:663" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="857:915" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="938:1549" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="988:1040" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="1137:1291" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="1385:1539" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="1588:1988" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="1739:1826" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="1847:1962" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="2030:3228" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="2445:3217" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="3269:3407" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="3489:3652" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="3734:3808" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="3888:3959" ph="{...}" />
+                <marker date="1579303688901" expanded="true" signature="4039:4184" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayerManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding>
+                <marker date="1579405525985" expanded="true" signature="6:41" ph="..." />
+                <marker date="1579405525985" expanded="true" signature="78:1348" ph="{...}" />
+                <marker date="1579405525985" expanded="true" signature="131:1346" ph="{...}" />
+                <marker date="1579405525985" expanded="true" signature="199:456" ph="{...}" />
+                <marker date="1579405525985" expanded="true" signature="515:1331" ph="{...}" />
+                <marker date="1579405525985" expanded="true" signature="529:1321" ph="/* Instantiate the CubePlayer for this client once we've successfully connected to the room ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-112">
+              <folding>
+                <marker date="1579406990782" expanded="false" signature="6:40" ph="..." />
+                <marker date="1579406990782" expanded="true" signature="4098:4113" ph="{...}" />
+                <marker date="1579406990782" expanded="true" signature="4098:4115" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl_nm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-695">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <marker date="1579407370878" expanded="false" signature="6:105" ph="..." />
+                <marker date="1579407370878" expanded="true" signature="136:3142" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="197:3140" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="749:809" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="840:1273" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="915:995" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="1061:1121" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="1189:1263" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="1310:2279" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="1358:1724" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="1741:2269" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="2353:2423" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="2482:2596" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="2630:2789" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="2827:3116" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="2874:2980" ph="{...}" />
+                <marker date="1579407370878" expanded="true" signature="2997:3106" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1579383005164" expanded="false" signature="6:41" ph="..." />
+                <marker date="1579383005164" expanded="true" signature="78:1258" ph="{...}" />
+                <marker date="1579383005164" expanded="true" signature="124:1256" ph="{...}" />
+                <marker date="1579383005164" expanded="true" signature="295:437" ph="{...}" />
+                <marker date="1579383005164" expanded="true" signature="469:1250" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Record/Scripts/VideoCaptureLocalExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl_nm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/NRSDK/Demos/Record/Scripts/VideoCaptureLocalExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Client.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl_nm.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ea88da-76b6-4274-a6dd-d9d6c62d71f6" name="Default Changelist" comment="" />
+      <created>1579290954112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579290954112</updated>
+      <workItem from="1579290957799" duration="14646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14646000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Server.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Record/Scripts/VideoCaptureLocalExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="88" column="60" selection-start-line="88" selection-start-column="60" selection-end-line="88" selection-end-column="60" />
+          <folding>
+            <marker date="1579303688901" expanded="false" signature="6:77" ph="..." />
+            <marker date="1579303688901" expanded="true" signature="108:4192" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="168:4190" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="250:788" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="276:778" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="570:663" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="857:915" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="938:1549" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="988:1040" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="1137:1291" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="1385:1539" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="1588:1988" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="1739:1826" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="1847:1962" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="2030:3228" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="2445:3217" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="3269:3407" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="3489:3652" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="3734:3808" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="3888:3959" ph="{...}" />
+            <marker date="1579303688901" expanded="true" signature="4039:4184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NetworkController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1579383005164" expanded="false" signature="6:41" ph="..." />
+            <marker date="1579383005164" expanded="true" signature="78:1258" ph="{...}" />
+            <marker date="1579383005164" expanded="true" signature="124:1256" ph="{...}" />
+            <marker date="1579383005164" expanded="true" signature="295:437" ph="{...}" />
+            <marker date="1579383005164" expanded="true" signature="469:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Normal/Examples/Cube Player/Scripts/CubePlayerManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <marker date="1579405525985" expanded="true" signature="6:41" ph="..." />
+            <marker date="1579405525985" expanded="true" signature="78:1348" ph="{...}" />
+            <marker date="1579405525985" expanded="true" signature="131:1346" ph="{...}" />
+            <marker date="1579405525985" expanded="true" signature="199:456" ph="{...}" />
+            <marker date="1579405525985" expanded="true" signature="515:1331" ph="{...}" />
+            <marker date="1579405525985" expanded="true" signature="529:1321" ph="/* Instantiate the CubePlayer for this client once we've successfully connected to the room ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <folding>
+            <marker date="1579406990782" expanded="false" signature="6:40" ph="..." />
+            <marker date="1579406990782" expanded="true" signature="4098:4113" ph="{...}" />
+            <marker date="1579406990782" expanded="true" signature="4098:4115" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NRSDK/Demos/Input/Scripts/TargetModelDisplayCtrl_nm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-695">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <marker date="1579407370878" expanded="false" signature="6:105" ph="..." />
+            <marker date="1579407370878" expanded="true" signature="136:3142" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="197:3140" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="749:809" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="840:1273" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="915:995" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="1061:1121" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="1189:1263" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="1310:2279" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="1358:1724" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="1741:2269" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="2353:2423" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="2482:2596" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="2630:2789" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="2827:3116" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="2874:2980" ph="{...}" />
+            <marker date="1579407370878" expanded="true" signature="2997:3106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
